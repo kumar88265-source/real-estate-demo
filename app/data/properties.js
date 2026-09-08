@@ -1,0 +1,72 @@
+export const PROPERTIES = [
+  {
+    id: "prop-1",
+    title: "The Solitaire Mansions",
+    developer: "R2R Luxury Living",
+    location: "Sector 7, Kharkhoda (IMT Corridor)",
+    city: "Kharkhoda",
+    type: "Plotted Development",
+    price: "₹ 85 Lakh - 1.75 Cr",
+    priceRange: "under-2cr",
+    size: "150 - 350 Sq. Yds",
+    tags: ["High ROI Corridor", "RERA Approved", "Near Maruti Plant"],
+    image: "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+    featured: true
+  },
+  {
+    id: "prop-2",
+    title: "Aura Celestial Penthouses",
+    developer: "Prestige Group",
+    location: "Golf Course Extension Road, Gurugram",
+    city: "Gurugram",
+    type: "Apartment",
+    price: "₹ 6.50 Cr - 11.0 Cr",
+    priceRange: "above-5cr",
+    size: "4,200 - 6,800 Sq. Ft",
+    tags: ["Private Lift", "Sky Club", "360 Golf View"],
+    image: "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+    featured: true
+  },
+  {
+    id: "prop-3",
+    title: "Signature Grandeur Estates",
+    developer: "R2R Group",
+    location: "Sector 102, Dwarka Expressway, Gurugram",
+    city: "Gurugram",
+    type: "Luxury Floor",
+    price: "₹ 2.80 Cr - 4.25 Cr",
+    priceRange: "2cr-5cr",
+    size: "2,400 - 3,100 Sq. Ft",
+    tags: ["Basement + Terrace", "Smart Home Automation"],
+    image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+    featured: false
+  },
+  {
+    id: "prop-4",
+    title: "The Industrial Sovereign Plots",
+    developer: "Vanguard Developers",
+    location: "KMP Expressway Junction, Kharkhoda",
+    city: "Kharkhoda",
+    type: "Plotted Development",
+    price: "₹ 1.10 Cr - 2.40 Cr",
+    priceRange: "under-2cr",
+    size: "200 - 500 Sq. Yds",
+    tags: ["Gated Township", "Wide 60ft Roads", "Immediate Registry"],
+    image: "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1200&q=80",
+    featured: true
+  },
+  {
+    id: "prop-5",
+    title: "Elysian Sky Residences",
+    developer: "DLF Privana Alternate",
+    location: "Sector 76, SPR, Gurugram",
+    city: "Gurugram",
+    type: "Apartment",
+    price: "₹ 4.10 Cr - 7.50 Cr",
+    priceRange: "2cr-5cr",
+    size: "3,150 Sq. Ft",
+    tags: ["Aravali Facing", "Triple Height Lobby"],
+    image: "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+    featured: false
+  }
+];
